@@ -1,6 +1,6 @@
 # 🎲 Funny Games Repository
 
-## 1. https://random-animal-generator.net/
+## 1. [RANDOM ANIMAL GENERATOR] (https://random-animal-generator.net)
 A joyful and creative game collection! Gather unique, hilarious, and unexpected game ideas that add surprise and laughter to life. From mind-blowing board games to unpredictable party games, this is a playground of endless entertainment possibilities!
 🎡 Random Animal Spinner: A Magical Journey into the Natural Kingdom
 Imagine an exciting platform of animal discovery, where a dazzling spinner instantly transports you into the magical world of the animal kingdom! This website is more than just generating random animals - it's an educational and entertaining adventure.
@@ -16,3 +16,7 @@ Detailed animal habitat and behavior information
 Direct Wikipedia links
 Entertaining spinner mechanism
 Perfect for parties, family game nights, and educational moments
+## 2. [SPRUNKR] (https://sprunkr.fun)
+No ads playing sprunki games
+
+
