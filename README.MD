@@ -1,6 +1,7 @@
 # 🎲 Funny Games Repository
 
 ## 1. [RANDOM ANIMAL GENERATOR] (https://random-animal-generator.net)
+[Friends](https://share.evernote.com/note/9a8ccfe9-df8f-3476-6dc1-cd7335bd3658)
 A joyful and creative game collection! Gather unique, hilarious, and unexpected game ideas that add surprise and laughter to life. From mind-blowing board games to unpredictable party games, this is a playground of endless entertainment possibilities!
 🎡 Random Animal Spinner: A Magical Journey into the Natural Kingdom
 Imagine an exciting platform of animal discovery, where a dazzling spinner instantly transports you into the magical world of the animal kingdom! This website is more than just generating random animals - it's an educational and entertaining adventure.
